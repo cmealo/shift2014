@@ -258,8 +258,8 @@ display : none;
 
 
 
-/* Tablet weird*/
-@media screen and (min-width: 1024px) and (max-width: 2000px) {
+/* Tablet 
+@media screen and (min-width: 768px) and (max-width: 1024px) {
 
 #logo-shift {
 	width: 100%;
